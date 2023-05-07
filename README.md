@@ -13,7 +13,7 @@
   </a>
 </p>
 
-💬 If you have any question/feedback, please do not hesitate to reach out to me!
+💬 If you have any question, please do not hesitate to reach out to me!
 
 <!--
 **McObunga/McObunga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
