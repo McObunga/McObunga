@@ -9,7 +9,7 @@
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
   <a href="https://twitter.com/mcobungabonface" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/tskMh.png" alt="twitter"> Twitter
+    <img src="https://user-images.githubusercontent.com/25502580/236696947-a197db33-7fef-40f3-9fe3-cfa1877aee0a.png" width="15" alt="twitter"> Twitter
   </a>
 </p>
 
