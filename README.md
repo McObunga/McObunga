@@ -1,7 +1,7 @@
 ![Bonface Otieno Banner](https://user-images.githubusercontent.com/25502580/236696113-e4ec2740-67d1-4ed7-9254-8b27ae3bf28b.png)
 
 
-### Hi there 👋 I'm MćObunga 
+### Hi there 👋 I'm MćObunga, an Android Engineer
 
 🤝 Connect with me on:
 
